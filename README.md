@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Version-2.1.0-blue.svg?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.1.0--alpha-orange.svg?style=for-the-badge" alt="Version">
 </div>
 
 <div align="center">
@@ -45,6 +45,7 @@
 - ✅ **ZIP Archive Extraction** - Direct ZIP extraction on server
 - ✅ **File Search** - Real-time search functionality
 - ✅ **File Filtering** - Filter by type (images, code, documents, etc.)
+- 🔧 **File Creation** - *Currently being developed*
 
 ### 💻 **Code Editor**
 - ✅ **Syntax Highlighting** - Support for popular file formats
@@ -74,6 +75,14 @@
 - ✅ **Glassmorphism Design** - Modern visual effects
 - ✅ **Smooth Animations** - Enhanced user experience
 - ✅ **Context Menu** - Right-click file operations
+
+---
+
+## ⚠️ Known Issues (v0.1.0-alpha)
+
+- 🔧 **File Creation**: File creation functionality is currently not working - actively being developed
+- 🔧 **File Adding**: File adding feature is under development
+- 📝 **Note**: This is an early alpha version. Many features are still being improved and stabilized.
 
 ---
 
@@ -457,6 +466,9 @@ A: Yes, but ensure you change default credentials and follow security best pract
 **Q: How do I add custom file types?**
 A: Modify the `$types` array in the `getFileType()` function.
 
+**Q: Why is file creation not working?**
+A: File creation feature is currently under development in this alpha version. It will be available in the next release.
+
 ---
 
 ## 🌟 Star History
@@ -489,6 +501,10 @@ Bu proje, modern web tabanlı dosya yönetimi için geliştirilmiş profesyonel 
 - 🔒 Güvenli giriş sistemi
 - 🌍 Çoklu dil desteği
 - 🎨 Modern arayüz tasarımı
+
+### Bilinen Sorunlar (v0.1.0-alpha)
+- 🔧 **Dosya Oluşturma**: Dosya oluşturma özelliği şu anda çalışmıyor - aktif olarak geliştiriliyor
+- 🔧 **Dosya Ekleme**: Dosya ekleme özelliği geliştirilme aşamasında
 
 ### Kurulum
 1. Projeyi indirin: `git clone https://github.com/byk1lla/ief-file-manager.git`
