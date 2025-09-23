@@ -90,26 +90,20 @@
 
 ### Login Interface
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/667eea/ffffff?text=Login+Interface+%F0%9F%94%90" alt="Login Interface" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<img width="1679" height="874" alt="image" src="https://github.com/user-attachments/assets/9112e284-7d93-4dfd-8268-1f43656b366d" />
   <p><em>Secure glassmorphism login with animated background</em></p>
 </div>
 
 ### Main Dashboard
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/f093fb/ffffff?text=Main+Dashboard+%F0%9F%93%81" alt="Main Dashboard" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<img width="1675" height="867" alt="image" src="https://github.com/user-attachments/assets/ae1e0cba-4b0f-4798-8ca0-2a55eab4bb65" />
   <p><em>Clean, modern file management interface with card-based layout</em></p>
 </div>
 
 ### Code Editor
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/4facfe/ffffff?text=Code+Editor+%F0%9F%92%BB" alt="Code Editor" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-  <p><em>Professional code editor with syntax highlighting</em></p>
-</div>
-
-### Media Preview
-<div align="center">
-  <img src="https://via.placeholder.com/800x500/43e97b/ffffff?text=Media+Preview+%F0%9F%96%BC%EF%B8%8F" alt="Media Preview" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-  <p><em>Full-screen media preview with modal interface</em></p>
+    <img width="1678" height="863" alt="image" src="https://github.com/user-attachments/assets/a9b0e2a6-8528-4fc1-baba-be24e108b2ea" />
+    <p><em>Professional code editor with syntax highlighting</em></p>
 </div>
 
 ---
